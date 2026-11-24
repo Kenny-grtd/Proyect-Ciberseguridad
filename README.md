@@ -18,9 +18,9 @@ Cada control está asociado a un pilar de la tríada CID
 
 | Integrante | Pilar responsable | VMs a cargo |
 |---|---|---|
-| Nombre 1 | Confidencialidad | pfSense #1, DNS/DHCP #1, Kali, cliente |
-| Nombre 2 | Integridad | PostgreSQL x2, TrueNAS x2, Wazuh |
-| Nombre 3 | Disponibilidad | Web x2, Mailcow, Zabbix, DNS/DHCP #2 |
+| Kenny 1 | Confidencialidad | pfSense #1, DNS/DHCP #1, Kali, cliente |
+| Ronald | Integridad | PostgreSQL x2, TrueNAS x2, Wazuh |
+| Samuel 3 | Disponibilidad | Web x2, Mailcow, Zabbix, DNS/DHCP #2 |
 
 ## 3. Arquitectura
 
