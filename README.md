@@ -87,7 +87,7 @@ scripts/    automatización: respaldos, failover, pruebas de demostración
 
 ## 8. Gestión del proyecto
 
-- Tablero Trello: <enlace>
+- Tablero Trello: https://trello.com/b/6b04c12696d7d18ccaab74bc
 - Cronograma y actas: `docs/actas/`
 - Análisis de riesgos: `docs/riesgos/`
 
